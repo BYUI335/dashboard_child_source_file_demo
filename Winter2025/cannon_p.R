@@ -6,6 +6,9 @@ library(tidyverse)
 
 ggplot(data = iris, 
        aes(x = Species, 
-           y = petal.Length)) + 
+           y = Petal.Length)) + 
   geom_boxplot()  #ROTATE
+
+ggplot(data = iris) +
+  geom_point(aes(x  = Petal.Length, y = Petal.Width))
 
