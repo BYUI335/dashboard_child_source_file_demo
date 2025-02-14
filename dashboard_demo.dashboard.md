@@ -52,14 +52,13 @@ Nothing to See here folks!!! Just text on a dashboard
 
 ## Quarto
 
-Check out my child Paul file graph
+Each code chunk and text section get their own card on the dashboard
 
 ::: {.cell}
 ::: {.cell-output-display}
 ![](dashboard_demo_files/figure-html/unnamed-chunk-7-1.png){width=768}
 :::
 :::
-
 
 
 

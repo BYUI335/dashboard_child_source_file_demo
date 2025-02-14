@@ -6,7 +6,7 @@ editor: visual
 
 ## Quarto
 
-Check out my child Paul file graph
+Each code chunk and text section get their own card on the dashboard
 
 ```{r}
 library(tidyverse)
@@ -22,4 +22,3 @@ p <- ggplot(data = iris,
 
 print(p)
 ```
-

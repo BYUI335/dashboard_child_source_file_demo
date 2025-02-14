@@ -1,0 +1,12 @@
+name: dashboard_demo
+title: dashboard_demo
+username: drp36
+account: drp36
+server: posit.byui.edu
+hostUrl: https://posit.byui.edu/__api__
+appId: 432
+bundleId: 765
+url: https://posit.byui.edu/content/0e733d40-fa11-4d3f-936f-2b00610e44f7/
+version: 1
+asMultiple: FALSE
+asStatic: TRUE
