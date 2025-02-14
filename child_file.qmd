@@ -1,0 +1,25 @@
+---
+title: "my_child_paul"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Check out my child Paul file graph
+
+```{r}
+library(tidyverse)
+
+#Find the error/typo, and the fix it.
+#Save the script and use this corrected file to submit to my original repository
+#using a pull request
+
+p <- ggplot(data = iris, 
+       aes(x = Species, 
+           y = Petal.Length)) + 
+  geom_boxplot()  #ROTATE
+
+print(p)
+```
+
